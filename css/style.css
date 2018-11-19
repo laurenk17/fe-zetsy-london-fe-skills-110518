@@ -27,7 +27,7 @@ body {
 #h1 {
   font-family:baskerville;
   font-size:65px;
-  font-color:111,127,122;
+  color: rgb(111,127,122);
 }
 .Jewellery {
   width:50%;
