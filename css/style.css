@@ -43,7 +43,7 @@ p {
 }
 
 img {
-  padding:2px;
+  border:2px solid grey;
 }
 #copyright {
   text-align:right;
